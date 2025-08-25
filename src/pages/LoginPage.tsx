@@ -81,7 +81,7 @@ export const LoginPage: React.FC = () => {
             </div>
           </div>
           <h1 className="text-3xl font-bold gradient-primary bg-clip-text text-transparent">
-            Bem-vindo ao Jogo de Pontuação!
+            Bem-vindo ao Jogo de Pontuação do SENAC!
           </h1>
           <p className="text-muted-foreground">
             Cadastre-se para começar a jogar e conquistar pontos
